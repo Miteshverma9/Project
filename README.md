@@ -6,3 +6,7 @@
 5. Predict the passenger survived or not in Titanic Dataset.
 6. Predict the Advertisment sale of TV, Radio, Newspaper.
 7. Predict the sales of outlet of Big Data Mart Dataset.
+8. Predict the Wins of Baseball Case Study.
+9. Predict the AveragePrice & type of Avcoda Fruit.
+10. Predict the Attrition of HR Analytics.
+11. Predict the Income Based on Census Income Report.
