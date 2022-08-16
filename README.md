@@ -10,3 +10,4 @@
 9. Predict the AveragePrice & type of Avcoda Fruit.
 10. Predict the Attrition of HR Analytics.
 11. Predict the Income Based on Census Income Report.
+12. Predict the Loan Status Based on Loan Application Status dataset.
