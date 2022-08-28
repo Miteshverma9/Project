@@ -12,3 +12,4 @@
 11. Predict the Income Based on Census Income Report.
 12. Predict the Loan Status Based on Loan Application Status dataset.
 13. Predict the Fraud Insurance claims Based on Insurance Claim dataset.
+14. Predict the Flight Price.
